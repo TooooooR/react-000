@@ -1,0 +1,93 @@
+[
+    {
+      "slug": "example-slug-1",
+      "name": "Example Name 1",
+      "type": "Example Type 1",
+      "short_description": "Example short description 1",
+      "address": {
+        "city": "Example City 1",
+        "street": "Example Street 1",
+        "build_number": "123"
+      },
+      "price_category": {
+        "price_range": "$$"
+      },
+      "capacity": 100,
+      "work_mobile_number": "123-456-7890",
+      "is_recommended": true,
+      "average_rating": 4.5,
+      "total_comments_number": 10,
+      "url": "http://example.com",
+      "amenities": [
+        {
+          "name": "WiFi",
+          "description": "Free WiFi"
+        }
+      ],
+      "services": [
+        {
+          "name": "Catering"
+        }
+      ],
+      "images": [
+        {
+          "image": "http://example.com/image1.jpg"
+        }
+      ],
+      "comments": [
+        {
+          "author": "John Doe",
+          "rating": 5,
+          "content": "Great place!",
+          "created_at": "2024-06-02T17:43:43.904Z",
+          "updated_at": "2024-06-02T17:43:43.904Z"
+        }
+      ]
+    },
+    {
+      "slug": "example-slug-2",
+      "name": "Example Name 2",
+      "type": "Example Type 2",
+      "short_description": "Example short description 2",
+      "address": {
+        "city": "Example City 2",
+        "street": "Example Street 2",
+        "build_number": "456"
+      },
+      "price_category": {
+        "price_range": "$$$"
+      },
+      "capacity": 200,
+      "work_mobile_number": "987-654-3210",
+      "is_recommended": false,
+      "average_rating": 4.0,
+      "total_comments_number": 20,
+      "url": "http://example2.com",
+      "amenities": [
+        {
+          "name": "Parking",
+          "description": "Free Parking"
+        }
+      ],
+      "services": [
+        {
+          "name": "Delivery"
+        }
+      ],
+      "images": [
+        {
+          "image": "http://example2.com/image2.jpg"
+        }
+      ],
+      "comments": [
+        {
+          "author": "Jane Smith",
+          "rating": 4,
+          "content": "Good place!",
+          "created_at": "2024-06-02T17:43:43.904Z",
+          "updated_at": "2024-06-02T17:43:43.904Z"
+        }
+      ]
+    }
+  ]
+  

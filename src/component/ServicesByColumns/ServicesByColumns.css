@@ -1,0 +1,39 @@
+.wrapper2{
+    margin-bottom: 50px;
+}
+.columns {
+    display: flex;
+  }
+  
+  .column {
+    flex: 1;
+  }
+  
+  .item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 6px; 
+  }
+  
+  .icon_apps {
+    width: 24px;
+    height: 24px;
+    margin-right: 8px;
+  }
+  
+  .column:last-child {
+    margin-right: 0;
+  }
+
+.name_of_services{
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 12px;
+}
+
+.name_of_service{
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 400;
+}

@@ -1,0 +1,83 @@
+.whereareyou1 {
+    color: #191E3B;
+    font-family: Roboto;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    margin-left: 18.75%;
+    margin-top: 29px;
+}
+
+.select-dropdowns1 {
+    display: flex;
+    width: 62.5%;
+    margin: 0 auto;
+    z-index: 100;
+}
+
+.mainsearch1 {
+    margin-top: 5px;
+    margin-left: 13px;
+    width: 93px;
+    height: 42px;
+    background-color: #ED2828;
+    color: none;
+    border: none;
+    border-radius: 20px;
+}
+
+.mainsearch-lviv1 {
+    text-decoration: none;
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
+}
+
+.select_product {
+    /* background-color: #191E3B; */
+    height: auto;
+    width: 62.5%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    display: flex;
+}
+
+.box-sb {
+    margin-left: 20px;
+}
+
+.mapp {
+    width: 100%;
+}
+
+.lvivmap1 {
+    width: 100%;
+}
+
+.filter {
+    width: 150%;
+    height: 670px;
+    box-sizing: border-box;
+    border: 1.5px solid rgb(224, 224, 224);
+    border-radius: 5px;
+    background: rgb(255, 255, 255);
+    position: sticky;
+    top: 0px;
+}
+
+.establishments {
+    /* background-color: aqua; */
+    display: flex;
+    float: left;
+}
+
+.establishments .wrapper{
+    float: left;
+    margin: 5px;
+}

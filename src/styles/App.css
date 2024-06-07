@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #EFEFEF;
+}
+
+.whereareyou {
+    color: #191E3B;
+    /* font-family: Roboto; */
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    margin-left: 18.75%;
+    margin-top: 29px;
+}
+
